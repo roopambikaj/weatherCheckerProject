@@ -16,7 +16,7 @@ import WeatherCheckerProject.utilities.DriverFactory;
 
 public class ValidateWeatherChecker {
 	
-	static String emailAddress;
+	
 	Logger logger = Logger.getLogger(ValidateWeatherChecker.class.getName());
 	
 	WebDriver driver;
